@@ -1,5 +1,5 @@
 # Projeto-site
- Projeto de um site desenvolvido no curso de Git e Github
-- [X] Criacao de site simples
+ Project of a website developed in Git and Github course.
+- [X] Simple website creation
 - [x] Branches
 - [x] Merge into master
